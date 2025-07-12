@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=28&pause=1000&color=00FF24&multiline=true&lines=Hello!+I'm+Sabriel+Adriel)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=28&pause=1000&color=00FF24&multiline=true&lines=Hello!+I'm+Sabriel+Adriel+San+Agustin)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=sabrieladriel)
 
