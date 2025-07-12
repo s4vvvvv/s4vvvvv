@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF24&width=431&lines=Hello!+I'm+Sabriel+Adriel)](https://git.io/typing-svg) -- ![](https://komarev.com/ghpvc/?username=sabrieladriel)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=00FF24&center=true&vCenter=true&lines=Hello!+I'm+Sabriel+Adriel)](https://git.io/typing-svg) -- ![](https://komarev.com/ghpvc/?username=sabrieladriel)
 
 # 💫 About Me:
 🎓 I’m currently studying at East Systems Colleges of Rizal<br>📚 I’m learning Cybersecurity, Machine Learning, and Web Development<br>👯 I’m looking to collaborate on Cybersecurity and Web Development Projects<br>💬 Ask me about anything related to Tech<br>📫 How to reach me: https://www.linkedin.com/in/savvv/<br>⚡ Fun fact: I am a Freelancer
